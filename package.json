@@ -1,0 +1,19 @@
+{
+  "name": "zadanie_8_4",
+  "version": "1.0.0",
+  "description": "kodilla zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/halo2008/zadanie_8_4.git"
+  },
+  "author": "halo2008",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
